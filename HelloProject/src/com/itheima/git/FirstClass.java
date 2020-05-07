@@ -8,6 +8,7 @@ public class FirstClass {
 
     private static void test() {
         int i = 0;
+        i += 10;
         System.out.println(i);
     }
 }
